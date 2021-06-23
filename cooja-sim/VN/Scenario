@@ -1,0 +1,8 @@
+PCAP : vrattack-20nodes.pcap
+Number of Nodes 20
+Malcious Nodes 2
+Attack : Version Number attack
+Topology : Random
+
+Malcious IP1 20 : fe80::212:7414:14:1414	
+Malcious IP2 21: fe80::212:7415:15:1515	
